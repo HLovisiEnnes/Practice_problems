@@ -1,0 +1,2 @@
+Polynomial regression for sine dataset with white noise. Problem suggested by Professor Alberto Pancanro for the Introduction to Data Science class, based on example of Pattern Recognition and
+Machine Learning by Cristopher Bishop.
