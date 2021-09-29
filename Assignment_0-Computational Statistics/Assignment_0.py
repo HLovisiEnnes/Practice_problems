@@ -58,6 +58,7 @@ def estimator(number_of_points, R):
     points_1 = sample_circle(number_of_points, R)
     points_2 = sample_circle(number_of_points, R)
     dist_vector = []
+    #calculates the distance between points in each of the sampled circles
     for i in range(len(points_1)):
         for j in range(len(points_2)):
             dif = points_1[i]-points_2[j]
