@@ -1,2 +1,2 @@
 # Practice_problems
- Some problems in different languages (just for fun)
+ Some problems in different languages (just for fun [or homework])
